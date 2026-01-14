@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "残響",
+  "base_artist": "▷ せーぶぽいんと",
+  "createdAt": "2026-01-14T01:15:05.430400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "164 feat. GUMI",
+      "has_synced": true,
+      "path": "select/01_残響_164_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "EISYU",
+      "has_synced": false,
+      "path": "select/02_残響_EISYU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "残響 - Zankyou",
+      "artist": "EISYU",
+      "has_synced": true,
+      "path": "select/03_残響_-_Zankyou_EISYU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "少女病",
+      "has_synced": true,
+      "path": "select/04_残響_少女病.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "映秀。",
+      "has_synced": false,
+      "path": "select/05_残響_映秀。.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "大橋純子",
+      "has_synced": false,
+      "path": "select/06_残響_大橋純子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "残響//輪廻",
+      "artist": "Eri Kitamura",
+      "has_synced": false,
+      "path": "select/07_残響_輪廻_Eri_Kitamura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "映秀。",
+      "has_synced": true,
+      "path": "select/08_残響_映秀。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "残響",
+      "artist": "164",
+      "has_synced": true,
+      "path": "select/09_残響_164.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残響",
+      "artist": "▷ せーぶぽいんと",
+      "has_synced": false,
+      "path": "select/pl_01_残響_▷_せーぶぽいんと.txt"
+    }
+  ]
+}
